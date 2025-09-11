@@ -18,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/PrasannaMasina/leetcode/tree/master/1448-maximum-69-number) |
+## String
+|  |
+| ------- |
+| [2887-sort-vowels-in-a-string](https://github.com/PrasannaMasina/leetcode/tree/master/2887-sort-vowels-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [2887-sort-vowels-in-a-string](https://github.com/PrasannaMasina/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 <!---LeetCode Topics End-->
