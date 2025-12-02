@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/PrasannaMasina/leetcode/tree/master/0657-robot-return-to-origin) |
 | [2887-sort-vowels-in-a-string](https://github.com/PrasannaMasina/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/PrasannaMasina/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/PrasannaMasina/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/PrasannaMasina/leetcode/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
