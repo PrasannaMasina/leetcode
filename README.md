@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0342-power-of-four](https://github.com/PrasannaMasina/leetcode/tree/master/0342-power-of-four) |
 | [1448-maximum-69-number](https://github.com/PrasannaMasina/leetcode/tree/master/1448-maximum-69-number) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/PrasannaMasina/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/PrasannaMasina/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Bit Manipulation
 |  |
@@ -41,9 +42,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/PrasannaMasina/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/PrasannaMasina/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Simulation
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/PrasannaMasina/leetcode/tree/master/0657-robot-return-to-origin) |
+## Prefix Sum
+|  |
+| ------- |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/PrasannaMasina/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
