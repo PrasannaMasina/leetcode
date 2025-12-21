@@ -42,12 +42,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/PrasannaMasina/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/PrasannaMasina/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/PrasannaMasina/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Simulation
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/PrasannaMasina/leetcode/tree/master/0657-robot-return-to-origin) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/PrasannaMasina/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Prefix Sum
 |  |
 | ------- |
