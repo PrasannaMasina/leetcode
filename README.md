@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/PrasannaMasina/leetcode/tree/master/0342-power-of-four) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/PrasannaMasina/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -45,11 +46,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PrasannaMasina/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/PrasannaMasina/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/PrasannaMasina/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/PrasannaMasina/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Simulation
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/PrasannaMasina/leetcode/tree/master/0657-robot-return-to-origin) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PrasannaMasina/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/PrasannaMasina/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
